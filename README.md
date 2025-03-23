@@ -49,7 +49,7 @@
 ## 🔥 Featured Projects  
   
 
-### **Hospital Management System**  
+### **HEALTHNEST**  
 🔗 [View Project](https://healthnest.vercel.app/)
 
 📌 **Tech Used:** React.js, Three.js, Node.js, Express.js, MongoDB  
