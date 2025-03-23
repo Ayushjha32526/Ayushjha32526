@@ -46,12 +46,10 @@
 ---
 
 ## 🔥 Featured Projects  
-### **Lung Cancer Prediction Model**  
-🔗 [View Project](https://github.com/Ayushjha32526/healthnest)  
-📌 **Tech Used:** React.js, Three.js, AI/ML, Golang, MongoDB  
+  
 
 ### **Hospital Management System**  
-🔗 [View Project](https://github.com/Ayushjha32526/hospital-management)  
+🔗 [View Project]([https://github.com/Ayushjha32526/hospital-management](https://healthnest.vercel.app/))  
 📌 **Tech Used:** React.js, Three.js, Node.js, Express.js, MongoDB  
 
 ---
