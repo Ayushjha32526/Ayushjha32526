@@ -17,7 +17,7 @@
 - 🌍 **Mozilla Club & Cisco Community** Core Technical Team  
 - 🏆 **Hackathon Lead & Web Dev Competition Winner**  
 - 📜 **Certified in NPTEL (Elite + Silver, 76%)**  
-- 💻 **LeetCode 100 Days of Java - Rank: 984,457**  
+- 💻 **LeetCode 100 Days of Java  
 
 ---
 
@@ -41,7 +41,7 @@
 **Others:**  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+ 
 
 ---
 
@@ -65,8 +65,8 @@
 ---
 
 ## 🤝 Connect With Me  
-📫 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-🔗 **LinkedIn:** [Ayush Jha](https://linkedin.com/in/yourprofile)  
+📫 **Email:** [ayushjha32526@example.com](mailto:your-email@example.com)  
+🔗 **LinkedIn:** [Ayush Jha]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ayush-jha-391544251/))  
 🐦 **Twitter:** [@yourtwitter](https://twitter.com/yourtwitter)  
 🌍 **Portfolio:** [your-portfolio-link]  
 
