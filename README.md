@@ -22,7 +22,8 @@
 
 ---
 ## 🛠️ Resume
-<a href="https://drive.google.com/file/d/1gHQr5xqjwtwTFNRJ6CMO8qKYMcNdN5Jg/view?usp=sharing" alt="Resume" /></a>
+ 
+<a href="https://drive.google.com/file/d/1gHQr5xqjwtwTFNRJ6CMO8qKYMcNdN5Jg/view?usp=sharing">View My Resume</a>
 ## 🛠️ Tech Stack
 
 **Languages:**  
